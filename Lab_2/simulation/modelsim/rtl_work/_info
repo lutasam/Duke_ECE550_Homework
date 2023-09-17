@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_2/simulation/modelsim
+vfa
+Z1 !s110 1694189518
+!i10b 1
+!s100 jkEOmQWVQE2HPVn8:;;AG1
+IO[hAjK2@ODQNHiObgHTmi2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1694028395
+8C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_2/fa.v
+FC:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_2/fa.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1694189518.000000
+!s107 C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_2/fa.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_2|C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_2/fa.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_2
+Z7 tCvgOpt 0
+vrca
+R1
+!i10b 1
+!s100 ^3f6b3XFaIE:WNIn80OQ62
+I09Q;3_35807<F_oL6YaOH2
+R2
+R0
+w1694132148
+8C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_2/rca.v
+FC:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_2/rca.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_2/rca.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_2|C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_2/rca.v|
+!i113 1
+R5
+R6
+R7
+vrca_tb
+!s110 1694189519
+!i10b 1
+!s100 l==AkCgK]9A=SRIOSC5YU0
+IPJF<WK5@blX^bIkAF`bfU0
+R2
+R0
+w1694189495
+8C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_2/rca_tb.v
+FC:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_2/rca_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1694189519.000000
+!s107 C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_2/rca_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_2|C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_2/rca_tb.v|
+!i113 1
+R5
+R6
+R7

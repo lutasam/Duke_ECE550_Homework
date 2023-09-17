@@ -1,0 +1,342 @@
+$comment
+	File created using the following command:
+		vcd file WTM.msim.vcd -direction
+$end
+$date
+	Sat Sep 09 16:54:17 2023
+$end
+$version
+	ModelSim Version 10.5b
+$end
+$timescale
+	1ps
+$end
+
+$scope module WTM_vlg_vec_tst $end
+$var reg 5 ! a [4:0] $end
+$var reg 5 " b [4:0] $end
+$var wire 1 # cout $end
+$var wire 1 $ out [9] $end
+$var wire 1 % out [8] $end
+$var wire 1 & out [7] $end
+$var wire 1 ' out [6] $end
+$var wire 1 ( out [5] $end
+$var wire 1 ) out [4] $end
+$var wire 1 * out [3] $end
+$var wire 1 + out [2] $end
+$var wire 1 , out [1] $end
+$var wire 1 - out [0] $end
+
+$scope module i1 $end
+$var wire 1 . gnd $end
+$var wire 1 / vcc $end
+$var wire 1 0 unknown $end
+$var tri1 1 1 devclrn $end
+$var tri1 1 2 devpor $end
+$var tri1 1 3 devoe $end
+$var wire 1 4 out[0]~output_o $end
+$var wire 1 5 out[1]~output_o $end
+$var wire 1 6 out[2]~output_o $end
+$var wire 1 7 out[3]~output_o $end
+$var wire 1 8 out[4]~output_o $end
+$var wire 1 9 out[5]~output_o $end
+$var wire 1 : out[6]~output_o $end
+$var wire 1 ; out[7]~output_o $end
+$var wire 1 < out[8]~output_o $end
+$var wire 1 = out[9]~output_o $end
+$var wire 1 > cout~output_o $end
+$var wire 1 ? b[0]~input_o $end
+$var wire 1 @ a[0]~input_o $end
+$var wire 1 A comb~0_combout $end
+$var wire 1 B a[1]~input_o $end
+$var wire 1 C b[1]~input_o $end
+$var wire 1 D s0c0|sum~combout $end
+$var wire 1 E a[2]~input_o $end
+$var wire 1 F a2b0~combout $end
+$var wire 1 G b[2]~input_o $end
+$var wire 1 H a1b1~0_combout $end
+$var wire 1 I s1c1|sum~combout $end
+$var wire 1 J s7c7|sum~combout $end
+$var wire 1 K s1c1|cout~0_combout $end
+$var wire 1 L b[3]~input_o $end
+$var wire 1 M a1b2~combout $end
+$var wire 1 N a2b1~combout $end
+$var wire 1 O s2c2|sum~combout $end
+$var wire 1 P a[3]~input_o $end
+$var wire 1 Q s8c8|sum~combout $end
+$var wire 1 R s7c7|cout~combout $end
+$var wire 1 S s14c14|sum~combout $end
+$var wire 1 T s8c8|cout~0_combout $end
+$var wire 1 U a[4]~input_o $end
+$var wire 1 V a2b2~combout $end
+$var wire 1 W b[4]~input_o $end
+$var wire 1 X a1b3~combout $end
+$var wire 1 Y s3c3|sum~combout $end
+$var wire 1 Z s2c2|cout~0_combout $end
+$var wire 1 [ s9c9|sum~combout $end
+$var wire 1 \ s15c15|sum~combout $end
+$var wire 1 ] ha1|sum~combout $end
+$var wire 1 ^ a3b2~combout $end
+$var wire 1 _ a2b3~combout $end
+$var wire 1 ` s4c4|sum~combout $end
+$var wire 1 a s3c3|cout~0_combout $end
+$var wire 1 b s10c10|sum~combout $end
+$var wire 1 c s9c9|cout~0_combout $end
+$var wire 1 d s16c16|sum~combout $end
+$var wire 1 e s15c15|cout~0_combout $end
+$var wire 1 f s14c14|cout~combout $end
+$var wire 1 g fa1|sum~combout $end
+$var wire 1 h fa1|cout~0_combout $end
+$var wire 1 i s10c10|cout~0_combout $end
+$var wire 1 j a4b2~combout $end
+$var wire 1 k a3b3~0_combout $end
+$var wire 1 l s5c5|sum~combout $end
+$var wire 1 m s4c4|cout~0_combout $end
+$var wire 1 n s11c11|sum~combout $end
+$var wire 1 o s16c16|cout~combout $end
+$var wire 1 p fa2|sum~combout $end
+$var wire 1 q fa2|cout~0_combout $end
+$var wire 1 r s17c17|cout~combout $end
+$var wire 1 s s6c6|sum~combout $end
+$var wire 1 t s5c5|cout~0_combout $end
+$var wire 1 u s12c12|sum~combout $end
+$var wire 1 v s11c11|cout~combout $end
+$var wire 1 w fa3|sum~combout $end
+$var wire 1 x s13c13|sum~combout $end
+$var wire 1 y fa3|cout~0_combout $end
+$var wire 1 z s18c18|cout~combout $end
+$var wire 1 { s12c12|cout~combout $end
+$var wire 1 | fa4|sum~combout $end
+$var wire 1 } s13c13|cout~0_combout $end
+$var wire 1 ~ fa4|cout~0_combout $end
+$var wire 1 !! fa5|sum~combout $end
+$var wire 1 "! fa5|cout~3_combout $end
+$var wire 1 #! fa5|cout~2_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 !
+b0 "
+0#
+0-
+0,
+0+
+0*
+0)
+0(
+0'
+0&
+0%
+0$
+0.
+1/
+x0
+11
+12
+13
+04
+05
+06
+07
+08
+09
+0:
+0;
+0<
+0=
+0>
+0?
+0@
+0A
+0B
+0C
+0D
+0E
+0F
+0G
+0H
+0I
+1J
+0K
+0L
+0M
+0N
+0O
+0P
+0Q
+0R
+0S
+0T
+0U
+0V
+0W
+0X
+0Y
+0Z
+0[
+0\
+0]
+0^
+0_
+0`
+0a
+0b
+0c
+0d
+0e
+0f
+0g
+0h
+0i
+0j
+0k
+0l
+0m
+0n
+0o
+0p
+0q
+0r
+0s
+0t
+0u
+0v
+0w
+0x
+0y
+0z
+0{
+0|
+0}
+0~
+0!!
+0"!
+0#!
+$end
+#60000
+b10000 "
+b10100 "
+1G
+1W
+#200000
+b100 "
+b0 "
+0G
+0W
+#300000
+b10000 !
+b11000 !
+b11001 !
+b10000 "
+1W
+1@
+1P
+1U
+1x
+1s
+1Y
+1u
+1[
+1|
+1<
+1\
+1%
+1w
+1;
+1&
+1]
+18
+1)
+#500000
+b1001 !
+b1 !
+b0 !
+b0 "
+0W
+0@
+0P
+0U
+0x
+0s
+0Y
+0u
+0[
+0|
+0<
+0\
+0%
+0w
+0;
+0&
+0]
+08
+0)
+#600000
+b100 !
+b110 !
+b1 "
+b10110 !
+b11110 !
+b11111 !
+1?
+1@
+1B
+1E
+1P
+1U
+1[
+1Q
+1F
+1D
+1A
+14
+15
+1\
+1I
+1,
+1-
+1S
+17
+0J
+1*
+1]
+18
+16
+1+
+1)
+#760000
+b11011 !
+b11001 !
+b0 "
+b1001 !
+b1 !
+b0 !
+0?
+0@
+0B
+0E
+0P
+0U
+0[
+0Q
+0F
+0D
+0A
+04
+05
+0\
+0I
+0,
+0-
+0S
+07
+1J
+0*
+0]
+08
+06
+0+
+0)
+#1000000

@@ -1,0 +1,102 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_3/simulation/modelsim
+vFA
+Z1 !s110 1694786700
+!i10b 1
+!s100 :Nj8Ji2QAnWZZcB>8Lk3X2
+Ionj`?5Q<hhA<g`G>XNA3c3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1694288043
+8C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_3/FA.v
+FC:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_3/FA.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1694786700.000000
+!s107 C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_3/FA.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_3|C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_3/FA.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_3
+Z7 tCvgOpt 0
+n@f@a
+vHA
+Z8 !s110 1694786701
+!i10b 1
+!s100 @i]3od:zKOhI`V2Ycz6hO2
+Ifed`ckc@N`6Jk_jhMnzeR2
+R2
+R0
+w1694288114
+8C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_3/HA.v
+FC:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_3/HA.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z9 !s108 1694786701.000000
+!s107 C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_3/HA.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_3|C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_3/HA.v|
+!i113 1
+R5
+R6
+R7
+n@h@a
+vWTM
+R1
+!i10b 1
+!s100 MDMC=_]af0Wd?lKXBlb?:0
+IlDh<TJkPg=ZdZ;Q;<YnGN1
+R2
+R0
+w1694292587
+8C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_3/WTM.v
+FC:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_3/WTM.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_3/WTM.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_3|C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_3/WTM.v|
+!i113 1
+R5
+R6
+R7
+n@w@t@m
+vWTM_tb
+R8
+!i10b 1
+!s100 =`KXIQL^gY=Z:87X3n9QW1
+IUI`IBo2bedE?RUhPEGUUD1
+R2
+R0
+w1694636271
+8C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_3/WTM_tb.v
+FC:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_3/WTM_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_3/WTM_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_3|C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_3/WTM_tb.v|
+!i113 1
+R5
+R6
+R7
+n@w@t@m_tb

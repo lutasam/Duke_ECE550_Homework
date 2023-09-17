@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_3/simulation/qsim
+vhard_block
+Z1 !s110 1694292856
+!i10b 1
+!s100 6^]ommCke_7?AI8?_aKha0
+ICj19UK<gkKd:6bjBW9iTh1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1694292855
+Z4 8WTM.vo
+Z5 FWTM.vo
+L0 1398
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1694292856.000000
+Z8 !s107 WTM.vo|
+Z9 !s90 -work|work|WTM.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vWTM
+R1
+!i10b 1
+!s100 S5=1WZPQb;N4X]UZ1[_Ji0
+IW4OcjdAE_4UhWTGn;_hk22
+R2
+R0
+R3
+R4
+R5
+L0 32
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@w@t@m
+vWTM_vlg_vec_tst
+!s110 1694292857
+!i10b 1
+!s100 zfPT]^Mk;6K2z@R;g_4kn1
+ISdGaHV=g_:>mXMzZhOEzS2
+R2
+R0
+w1694292854
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 30
+R6
+r1
+!s85 0
+31
+!s108 1694292857.000000
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11
+n@w@t@m_vlg_vec_tst

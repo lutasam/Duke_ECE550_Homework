@@ -1,0 +1,61 @@
+|rca
+a[0] => a[0].IN1
+a[1] => a[1].IN1
+a[2] => a[2].IN1
+a[3] => a[3].IN1
+b[0] => b[0].IN1
+b[1] => b[1].IN1
+b[2] => b[2].IN1
+b[3] => b[3].IN1
+cin => cin.IN1
+sum[0] << fa:comb_3.port3
+sum[1] << fa:comb_4.port3
+sum[2] << fa:comb_5.port3
+sum[3] << fa:comb_6.port3
+cout << fa:comb_6.port4
+
+
+|rca|fa:comb_3
+a => w1.IN0
+a => w2.IN0
+b => w1.IN1
+b => w2.IN1
+cin => comb.IN1
+cin => w3.IN1
+sum <= comb.DB_MAX_OUTPUT_PORT_TYPE
+cout <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca|fa:comb_4
+a => w1.IN0
+a => w2.IN0
+b => w1.IN1
+b => w2.IN1
+cin => comb.IN1
+cin => w3.IN1
+sum <= comb.DB_MAX_OUTPUT_PORT_TYPE
+cout <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca|fa:comb_5
+a => w1.IN0
+a => w2.IN0
+b => w1.IN1
+b => w2.IN1
+cin => comb.IN1
+cin => w3.IN1
+sum <= comb.DB_MAX_OUTPUT_PORT_TYPE
+cout <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|rca|fa:comb_6
+a => w1.IN0
+a => w2.IN0
+b => w1.IN1
+b => w2.IN1
+cin => comb.IN1
+cin => w3.IN1
+sum <= comb.DB_MAX_OUTPUT_PORT_TYPE
+cout <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+
