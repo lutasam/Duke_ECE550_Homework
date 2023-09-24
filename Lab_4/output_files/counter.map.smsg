@@ -1,0 +1,3 @@
+Info (10281): Verilog HDL Declaration information at counter.v(101): object "STATE" differs only in case from object "state" in the same scope File: C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_4/counter.v Line: 101
+Info (10281): Verilog HDL Declaration information at counter.v(104): object "c" differs only in case from object "C" in the same scope File: C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_4/counter.v Line: 104
+Info (10281): Verilog HDL Declaration information at counter_tb.v(5): object "STATE" differs only in case from object "state" in the same scope File: C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Lab_4/counter_tb.v Line: 5

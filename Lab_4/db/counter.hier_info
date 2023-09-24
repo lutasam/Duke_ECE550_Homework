@@ -1,0 +1,24 @@
+|counter
+clock => c.CLK
+clock => state~9.DATAIN
+w => state.OUTPUTSELECT
+w => state.OUTPUTSELECT
+w => state.OUTPUTSELECT
+w => state.OUTPUTSELECT
+w => state.OUTPUTSELECT
+w => state.OUTPUTSELECT
+w => state.OUTPUTSELECT
+w => state.OUTPUTSELECT
+w => c.OUTPUTSELECT
+w => state.OUTPUTSELECT
+w => state.OUTPUTSELECT
+w => state.OUTPUTSELECT
+w => state.OUTPUTSELECT
+w => c.OUTPUTSELECT
+w => state.OUTPUTSELECT
+count <= c.DB_MAX_OUTPUT_PORT_TYPE
+STATE[0] <= WideOr2.DB_MAX_OUTPUT_PORT_TYPE
+STATE[1] <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+STATE[2] <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+
+
