@@ -1,0 +1,138 @@
+# Reading C:/intelFPGA/17.0/modelsim_ase/tcl/vsim/pref.tcl
+# do simple_alu_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA/17.0/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu {C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/alu.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:49:51 on Oct 01,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu" C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/alu.v 
+# -- Compiling module alu
+# 
+# Top level modules:
+# 	alu
+# End time: 09:49:51 on Oct 01,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu {C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/rca.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:49:51 on Oct 01,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu" C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/rca.v 
+# -- Compiling module rca
+# 
+# Top level modules:
+# 	rca
+# End time: 09:49:51 on Oct 01,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu {C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/fa.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:49:51 on Oct 01,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu" C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/fa.v 
+# -- Compiling module fa
+# 
+# Top level modules:
+# 	fa
+# End time: 09:49:51 on Oct 01,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu {C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/csa32.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:49:51 on Oct 01,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu" C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/csa32.v 
+# -- Compiling module csa32
+# 
+# Top level modules:
+# 	csa32
+# End time: 09:49:51 on Oct 01,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu {C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/and32.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:49:51 on Oct 01,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu" C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/and32.v 
+# -- Compiling module and32
+# 
+# Top level modules:
+# 	and32
+# End time: 09:49:51 on Oct 01,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu {C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/or32.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:49:51 on Oct 01,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu" C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/or32.v 
+# -- Compiling module or32
+# 
+# Top level modules:
+# 	or32
+# End time: 09:49:51 on Oct 01,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu {C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/sll32.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:49:52 on Oct 01,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu" C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/sll32.v 
+# -- Compiling module sll32
+# 
+# Top level modules:
+# 	sll32
+# End time: 09:49:52 on Oct 01,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu {C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/sra32.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:49:52 on Oct 01,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu" C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/sra32.v 
+# -- Compiling module sra32
+# 
+# Top level modules:
+# 	sra32
+# End time: 09:49:52 on Oct 01,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu {C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/alu_tb.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:49:52 on Oct 01,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu" C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/alu_tb.v 
+# -- Compiling module alu_tb
+# 
+# Top level modules:
+# 	alu_tb
+# End time: 09:49:52 on Oct 01,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  alu_tb
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" alu_tb 
+# Start time: 09:49:52 on Oct 01,2023
+# Loading work.alu_tb
+# Loading work.alu
+# Loading work.csa32
+# Loading work.rca
+# Loading work.fa
+# Loading work.and32
+# Loading work.or32
+# Loading work.sll32
+# Loading work.sra32
+# ** Warning: (vsim-3015) C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/csa32.v(7): [PCDPC] - Port size (1) does not match connection size (32) for port 'cin'. The port definition is at: C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/rca.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /alu_tb/alu_ut/c1/r0 File: C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/rca.v
+# ** Warning: (vsim-3015) C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/csa32.v(8): [PCDPC] - Port size (1) does not match connection size (32) for port 'cin'. The port definition is at: C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/rca.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /alu_tb/alu_ut/c1/r1 File: C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/rca.v
+# ** Warning: (vsim-3015) C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/csa32.v(7): [PCDPC] - Port size (1) does not match connection size (32) for port 'cin'. The port definition is at: C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/rca.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /alu_tb/alu_ut/c2/r0 File: C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/rca.v
+# ** Warning: (vsim-3015) C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/csa32.v(8): [PCDPC] - Port size (1) does not match connection size (32) for port 'cin'. The port definition is at: C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/rca.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /alu_tb/alu_ut/c2/r1 File: C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/rca.v
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+#                    0 << Starting the Simulation >>
+# The simulation completed without errors
+# ** Note: $stop    : C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/alu_tb.v(51)
+#    Time: 3540 ns  Iteration: 1  Instance: /alu_tb
+# Break in Module alu_tb at C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/alu_tb.v line 51
+# End time: 09:52:58 on Oct 01,2023, Elapsed time: 0:03:06
+# Errors: 0, Warnings: 4

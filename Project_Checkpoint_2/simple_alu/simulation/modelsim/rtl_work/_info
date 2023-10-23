@@ -1,0 +1,208 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/simulation/modelsim
+valu
+Z1 !s110 1696168191
+!i10b 1
+!s100 Q0=GYGU:YFZdK=]`lC=2n0
+IX:5;O9ba7o2WL1<ZL@HUg1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1695515803
+8C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/alu.v
+FC:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/alu.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1696168191.000000
+!s107 C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu|C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/alu.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu
+Z7 tCvgOpt 0
+valu_tb
+Z8 !s110 1696168192
+!i10b 1
+!s100 1FdKJWVBXCm@XEMh`Ubz82
+I>o=<iSH4AR`9fQI04<GL;3
+R2
+R0
+w1696168183
+8C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/alu_tb.v
+FC:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/alu_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+Z9 !s108 1696168192.000000
+!s107 C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/alu_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu|C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/alu_tb.v|
+!i113 1
+R5
+R6
+R7
+vand32
+R1
+!i10b 1
+!s100 ?l<YeM]8IBFzVC_5hZGCi0
+I9A>JJic:>;=Y46B;1FIdK0
+R2
+R0
+w1695330168
+8C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/and32.v
+FC:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/and32.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/and32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu|C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/and32.v|
+!i113 1
+R5
+R6
+R7
+vcsa32
+R1
+!i10b 1
+!s100 T060Z2=dHD0g57?@FC?5W3
+I=Tno11c`0Od8S44@Y:;=A1
+R2
+R0
+w1694829167
+8C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/csa32.v
+FC:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/csa32.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/csa32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu|C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/csa32.v|
+!i113 1
+R5
+R6
+R7
+vfa
+R1
+!i10b 1
+!s100 jkEOmQWVQE2HPVn8:;;AG1
+I6ImBd`CCznfPB5m5XZ<be1
+R2
+R0
+w1694547237
+8C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/fa.v
+FC:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/fa.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/fa.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu|C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/fa.v|
+!i113 1
+R5
+R6
+R7
+vor32
+R1
+!i10b 1
+!s100 9Z4IU5<BO=cK]8LRY_lE<1
+I[1n_cn8X=^REcacU_CEZ53
+R2
+R0
+w1695330169
+8C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/or32.v
+FC:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/or32.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/or32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu|C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/or32.v|
+!i113 1
+R5
+R6
+R7
+vrca
+R1
+!i10b 1
+!s100 :h_Z68S<XEH>knO]e`[E63
+IWYYHnS0VN]13in2_FG9o_2
+R2
+R0
+w1694550626
+8C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/rca.v
+FC:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/rca.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/rca.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu|C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/rca.v|
+!i113 1
+R5
+R6
+R7
+vsll32
+R8
+!i10b 1
+!s100 [^VXkjK_:jPmTM5Hen:l50
+IGofJDgSQQPT=EUTh5d;>Y2
+R2
+R0
+w1695387890
+8C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/sll32.v
+FC:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/sll32.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/sll32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu|C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/sll32.v|
+!i113 1
+R5
+R6
+R7
+vsra32
+R8
+!i10b 1
+!s100 E=@0R`W8Q]zW^Y_@JC2[D1
+ITBYS@BcPJ[zbj;QiZ7Hm?0
+R2
+R0
+w1695736542
+8C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/sra32.v
+FC:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/sra32.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/sra32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu|C:/Users/Lutas/OneDrive/Desktop/Class/ECE-550D/Homework/Project_Checkpoint_2/simple_alu/sra32.v|
+!i113 1
+R5
+R6
+R7
